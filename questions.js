@@ -6,7 +6,7 @@
      bins  – sort each item into one of two (or three) groups
    Any question can have its own "seconds". */
 window.SITE_INFO = {
- "badge": "Grade 12 · Unit 4 · Week 10 · Session 1 · Virtual",
+ "badge": "Grade 12 · Unit 4 · Week 10 · Session 1",
  "titleText": "Connection Games",
  "warmup": {
   "label": "Warm-up",
